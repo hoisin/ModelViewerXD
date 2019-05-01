@@ -1,0 +1,65 @@
+﻿  ModelViewerXD.cpp
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(1619): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(1620): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(2264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(2265): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(2926): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(2927): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(3608): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(3609): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4315): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4316): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4317): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4350): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4351): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4361): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4362): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4403): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4404): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4405): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(5573): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(5574): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(5575): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\xstring(2268): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\xstring(2279): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\xstring(2279): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\xstring(2259): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\xstring(2259): note: see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+  C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4561): note: see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\ModelViewerXD\ModelViewerXD.cpp(4561): note: see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\chrono(595): note: see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\chrono(172): note: see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\chrono(574): note: see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+  ModelViewerXD.vcxproj -> C:\Users\mwcts\Desktop\Stuff\ActiveProjects\ModelViewerXD\x64\Debug\ModelViewerXD.exe
